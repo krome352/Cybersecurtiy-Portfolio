@@ -1,84 +1,74 @@
 # All-About-Me
 
-👋 Hey, I'm Nolan!
-🔐 Aspiring Penetration Tester | Cybersecurity Enthusiast
+root@Nolan:~$ whoami
 
-I'm 14 and currently getting into the world of cybersecurity, mainly focusing on ethical hacking, penetration testing, and network security.
+bash
+> Name: Nolan Mendes
+> Age: 14
+> Interest: Cybersecurity
+> Goal: Penetration Tester
+> Status: Learning...
+<p align="center">
+<img src="https://img.shields.io/badge/Focus-Ethical%20Hacking-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Status-Learning-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/OS-Linux-black?style=for-the-badge&logo=linux">
+</p>
 
-I'm still learning and have a lot to explore, but I enjoy figuring out how systems work, learning new tools, and practicing different techniques in legal lab environments.
+01 — About Me
+Hey! I'm Nolan, a 14-year-old who's getting into cybersecurity.
 
-I'm using GitHub to keep track of what I learn, upload projects, and document my progress along the way.
+I'm especially interested in ethical hacking, penetration testing, and network security.
 
-🧠 About Me
-🔐 Interested in ethical hacking and penetration testing.
-💻 Learning Linux and Kali Linux.
-🌐 Interested in networking and network security.
-🔎 Exploring tools used by security professionals.
-🧪 Practicing through cybersecurity labs and challenges.
-📚 Always looking for something new to learn.
-🛠️ Tools & Technologies
-Currently Learning
-Tool / Technology	What I'm learning
-🐧 Linux	Commands, permissions, and system administration
-🐉 Kali Linux	Getting familiar with security tools
-🔎 Nmap	Network discovery and scanning
-📡 Wireshark	Packet capture and traffic analysis
-🪟 Windows	System administration and security
-🌐 Networking	TCP/IP, ports, protocols, and DNS
-Learning Platforms
+I like learning how systems work, exploring different security tools, and figuring out how vulnerabilities can be found and fixed.
+
+I'm still a beginner, but I'm trying to improve my skills, work on projects, and document what I learn along the way.
+
+02 — Tech Stack
+Currently learning:
+
+
+Technology	Focus
+Linux	Commands & system administration
+Kali Linux	Security tools
+Nmap	Network discovery
+Wireshark	Packet analysis
+Windows	System security
+Networking	TCP/IP, DNS & ports
+03 — Platforms
 TryHackMe
 Hack The Box
-🎯 Current Goals
-Get better at Linux.
-Understand networking more deeply.
-Learn how to use Nmap properly.
-Get comfortable analyzing traffic in Wireshark.
-Complete more beginner cybersecurity labs.
-Learn penetration testing methodologies.
-Start documenting my projects.
-Build a decent cybersecurity portfolio.
-🧪 Projects
+04 — Current Goals
 
-This is where I'll be uploading things I've worked on and learned.
+text
+[+] Improve my Linux knowledge
+[+] Learn networking fundamentals
+[ ] Get better with Nmap
+[ ] Understand Wireshark
+[ ] Complete more CTF challenges
+[ ] Learn penetration testing methodology
+[ ] Build and document personal projects
+[ ] Expand my cybersecurity knowledge
+05 — Projects
 
-Project	Description	Status
-All About Me	My introduction and learning journey	✅ Started
-Nmap Notes	Notes and experiments with Nmap in labs	🔄 Planned
-Wireshark Analysis	Learning to analyze network traffic	🔄 Planned
-Linux Notes	Commands, permissions, and things I've learned	🔄 Planned
+Project	Description
+Nmap Notes	Learning network scanning
+Wireshark Labs	Exploring network traffic
+Linux Notes	Commands and useful information
+Cybersecurity Labs	Documenting things I learn
+More projects coming as I learn.
 
-More projects coming soon.
+06 — Why Cybersecurity?
+I find cybersecurity interesting because there's always something new to learn.
 
-📚 What I'm Currently Studying
+I enjoy the technical side of things, especially networking, Linux, and understanding how vulnerabilities affect systems.
 
-Right now, I'm focusing on understanding the fundamentals instead of rushing into advanced stuff.
+My long-term goal is to become a penetration tester and help organizations improve their security.
 
-Some things I'm working toward:
+For now, I'm focused on learning the fundamentals and getting as much hands-on experience as I can.
 
-Understanding how networks communicate.
-Learning how ports and services work.
-Understanding common vulnerabilities.
-Getting comfortable with Linux.
-Learning how penetration testers approach security assessments.
-Understanding how to identify and report security issues responsibly.
-💭 Why Cybersecurity?
 
-I've always found technology interesting, especially understanding what's happening behind the scenes.
+bash
+root@Nolan:~$ echo "Learning something new every day."
+Learning something new every day.
 
-Cybersecurity caught my attention because there's always something new to learn. I like the problem-solving side of ethical hacking and the idea of helping make systems more secure.
-
-Eventually, I'd like to work as a professional penetration tester.
-
-For now, I'm just focusing on learning, practicing, and improving.
-
-⚡ A Few Things About Me
-👨‍💻 Beginner in cybersecurity.
-🔐 Future penetration tester.
-🧠 Always curious about how technology works.
-🐧 Linux enjoyer.
-🚀 Learning something new whenever I can.
-Thanks for checking out my profile!
-
-Still learning, still experimenting, and definitely not done yet. 🔐
-
-⭐ Feel free to check out my repositories as I add more projects.
+root@Nolan:~$ _
