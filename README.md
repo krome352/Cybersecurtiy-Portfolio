@@ -1,76 +1,84 @@
+# Hey, I'm Nolan 👋
+
+### Aspiring Penetration Tester | Cybersecurity Enthusiast
+
+I'm an aspiring cybersecurity professional interested in ethical hacking, penetration testing, web security, and network analysis.
+
+I enjoy understanding how systems work, investigating unusual behavior, and learning how vulnerabilities are discovered and fixed.
+
+Currently focused on strengthening my fundamentals and developing the skills needed to conduct independent security research.
+
+---
+
+## `01` // Focus Areas
+
+- Web Application Security
+- Network Reconnaissance
+- Linux & System Administration
+- Vulnerability Research
+- Penetration Testing Methodologies
+- Network Traffic Analysis
+
+## `02` // Technologies & Tools
+
+| Technology | Focus |
+|---|---|
+| Linux / Kali Linux | System administration |
+| Python | Scripting and automation |
+| Nmap | Network reconnaissance |
+| Wireshark | Packet analysis |
+| Burp Suite | Web application testing |
+| Git | Version control |
+| TCP/IP | Networking fundamentals |
+
+## `03` // Learning Platforms
+
+- [TryHackMe](https://tryhackme.com/)
+- [Hack The Box](https://www.hackthebox.com/)
+- [PortSwigger Web Security Academy](https://portswigger.net/web-security)
+
+## `04` // Current Objectives
+
+- [x] Build foundational Linux knowledge
+- [x] Complete introductory cybersecurity labs
+- [ ] Improve Python scripting skills
+- [ ] Develop deeper HTTP and networking knowledge
+- [ ] Study web application vulnerabilities
+- [ ] Improve independent vulnerability discovery
+- [ ] Build and document personal security projects
+
+## `05` // Projects & Research
+
+| Project | Description | Status |
+|---|---|---|
+| Nmap Notes | Network reconnaissance documentation | Planned |
+| Wireshark Labs | Network traffic analysis experiments | Planned |
+| Linux Notes | Linux commands and administration | In Progress |
+| Security Labs | Documented CTF investigations | In Progress |
+
+More projects and research will be documented as I progress.
+
+## `06` // Philosophy
+
+I believe understanding *why* something works is just as important as knowing how to use the tools.
+
+My goal isn't simply to learn commands or follow walkthroughs. I want to develop the ability to investigate unfamiliar systems, identify security weaknesses, and understand the underlying mechanisms.
+
+Everything I practice is done in authorized environments.
+
+---
+
+## `07` // Terminal
+
+```bash
 root@Nolan:~$ whoami
-bash
-Name:       Nolan Mendes
-Age:        14
-Focus:      Cybersecurity
-Goal:       Penetration Testing
-Status:     Learning...
 
+Name: Nolan
+Focus: Cybersecurity
+Specialization: Penetration Testing
+Status: Learning
 
-<p align="center">
-<img src="https://img.shields.io/badge/Focus-Ethical_Hacking-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Status-Learning-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OS-Linux-black?style=for-the-badge&logo=linux" />
-</p>
-
-01 // About Me
-
-Hey, I'm Nolan. I'm 14 and interested in cybersecurity, particularly ethical hacking, penetration testing, and network security.
-
-I enjoy learning how systems work, experimenting with different tools, and understanding how vulnerabilities can be discovered and fixed.
-
-I'm still learning, but I use this repository to keep track of my progress, projects, notes, and things I discover along the way.
-
-02 // Technologies & Tools
-Technology	Focus
-Linux	Commands & system administration
-Kali Linux	Security tools
-Nmap	Network discovery
-Wireshark	Packet analysis
-Windows	System security
-Networking	TCP/IP, DNS & ports
-03 // Learning Platforms
-TryHackMe
-Hack The Box
-04 // Current Goals
-text
-[+] Improve Linux knowledge
-[+] Understand networking fundamentals
-[ ] Learn Nmap in more depth
-[ ] Improve Wireshark skills
-[ ] Complete more CTF challenges
-[ ] Study penetration testing methodologies
-[ ] Build personal cybersecurity projects
-[ ] Document what I learn
-
-05 // Projects
-Project	Description	Status
-Nmap Notes	Network scanning notes	Planned
-Wireshark Labs	Network traffic analysis	Planned
-Linux Notes	Linux commands and administration	Planned
-Security Labs	Cybersecurity lab documentation	Planned
-
-More projects will be added as I progress.
-
-06 // Why Cybersecurity?
-
-I find cybersecurity interesting because there's always something new to learn.
-
-I particularly enjoy the problem-solving side of ethical hacking and understanding how systems can be made more secure.
-
-My long-term goal is to become a penetration tester.
-
-For now, I'm focused on learning the fundamentals, practicing in authorized environments, and building up my knowledge.
-
-07 // Terminal
-bash
 root@Nolan:~$ echo "Learning something new every day."
 
 Learning something new every day.
-
-root@Nolan:~$ _
-
-
-<p align="center">
-<i>Learning. Experimenting. Improving.</i>
-</p>
+```
