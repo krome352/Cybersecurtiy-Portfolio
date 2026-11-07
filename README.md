@@ -1,32 +1,27 @@
-# cybersecurity-portfolio
-
 root@Nolan:~$ whoami
-
 bash
-> Name: Nolan Mendes
-> Age: 14
-> Interest: Cybersecurity
-> Goal: Penetration Tester
-> Status: Learning...
+Name:       Nolan Mendes
+Age:        14
+Focus:      Cybersecurity
+Goal:       Penetration Testing
+Status:     Learning...
+
+
 <p align="center">
-<img src="https://img.shields.io/badge/Focus-Ethical%20Hacking-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/Status-Learning-green?style=for-the-badge">
-<img src="https://img.shields.io/badge/OS-Linux-black?style=for-the-badge&logo=linux">
+<img src="https://img.shields.io/badge/Focus-Ethical_Hacking-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Learning-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OS-Linux-black?style=for-the-badge&logo=linux" />
 </p>
 
-01 — About Me
-Hey! I'm Nolan, a 14-year-old who's getting into cybersecurity.
+01 // About Me
 
-I'm especially interested in ethical hacking, penetration testing, and network security.
+Hey, I'm Nolan. I'm 14 and interested in cybersecurity, particularly ethical hacking, penetration testing, and network security.
 
-I like learning how systems work, exploring different security tools, and figuring out how vulnerabilities can be found and fixed.
+I enjoy learning how systems work, experimenting with different tools, and understanding how vulnerabilities can be discovered and fixed.
 
-I'm still a beginner, but I'm trying to improve my skills, work on projects, and document what I learn along the way.
+I'm still learning, but I use this repository to keep track of my progress, projects, notes, and things I discover along the way.
 
-02 — Tech Stack
-Currently learning:
-
-
+02 // Technologies & Tools
 Technology	Focus
 Linux	Commands & system administration
 Kali Linux	Security tools
@@ -34,41 +29,48 @@ Nmap	Network discovery
 Wireshark	Packet analysis
 Windows	System security
 Networking	TCP/IP, DNS & ports
-03 — Platforms
+03 // Learning Platforms
 TryHackMe
 Hack The Box
-04 — Current Goals
-
+04 // Current Goals
 text
-[+] Improve my Linux knowledge
-[+] Learn networking fundamentals
-[ ] Get better with Nmap
-[ ] Understand Wireshark
+[+] Improve Linux knowledge
+[+] Understand networking fundamentals
+[ ] Learn Nmap in more depth
+[ ] Improve Wireshark skills
 [ ] Complete more CTF challenges
-[ ] Learn penetration testing methodology
-[ ] Build and document personal projects
-[ ] Expand my cybersecurity knowledge
-05 — Projects
+[ ] Study penetration testing methodologies
+[ ] Build personal cybersecurity projects
+[ ] Document what I learn
 
-Project	Description
-Nmap Notes	Learning network scanning
-Wireshark Labs	Exploring network traffic
-Linux Notes	Commands and useful information
-Cybersecurity Labs	Documenting things I learn
-More projects coming as I learn.
+05 // Projects
+Project	Description	Status
+Nmap Notes	Network scanning notes	Planned
+Wireshark Labs	Network traffic analysis	Planned
+Linux Notes	Linux commands and administration	Planned
+Security Labs	Cybersecurity lab documentation	Planned
 
-06 — Why Cybersecurity?
+More projects will be added as I progress.
+
+06 // Why Cybersecurity?
+
 I find cybersecurity interesting because there's always something new to learn.
 
-I enjoy the technical side of things, especially networking, Linux, and understanding how vulnerabilities affect systems.
+I particularly enjoy the problem-solving side of ethical hacking and understanding how systems can be made more secure.
 
-My long-term goal is to become a penetration tester and help organizations improve their security.
+My long-term goal is to become a penetration tester.
 
-For now, I'm focused on learning the fundamentals and getting as much hands-on experience as I can.
+For now, I'm focused on learning the fundamentals, practicing in authorized environments, and building up my knowledge.
 
-
+07 // Terminal
 bash
 root@Nolan:~$ echo "Learning something new every day."
+
 Learning something new every day.
 
 root@Nolan:~$ _
+
+
+<p align="center">
+<i>Learning. Experimenting. Improving.</i>
+</p>
